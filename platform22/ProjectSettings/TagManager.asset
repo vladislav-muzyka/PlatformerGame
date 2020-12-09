@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Ground
+  - 
+  - Enemies
+  - Player
+  - Items
+  - Decoration
+  - PlayerProjectiles
+  - EnemyProjectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 616722059
+    locked: 0
+  - name: Background2
+    uniqueID: 3049297063
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DecorationBegind
+    uniqueID: 454906387
+    locked: 0
+  - name: Enemies
+    uniqueID: 1615680089
+    locked: 0
+  - name: Player
+    uniqueID: 507342699
+    locked: 0
+  - name: Items
+    uniqueID: 3415858185
+    locked: 0
+  - name: DecorationInFront
+    uniqueID: 2859559817
+    locked: 0
+  - name: Traps
+    uniqueID: 2159699157
+    locked: 0
